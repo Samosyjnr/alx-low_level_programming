@@ -18,5 +18,5 @@ int _abs(int n)
 		return (n);
 	}
 }
-Footer
-© 2022 GitHub, Inc.
+
+
